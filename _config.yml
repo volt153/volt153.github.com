@@ -40,3 +40,5 @@ navigable-pages:
     url: /projects.html
   - title: about
     url: /about.html
+
+comments:true
